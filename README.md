@@ -10,8 +10,10 @@ docker containers
 
 
 ### Github commands
-*mkdir: create folder
-*pwd: show folder where i am
-*ls: show everything
-*cd: enter the folder
+mkdir: create folder
+
+pwd: show folder where i am
+
+ls: show everything
+cd: enter the folder
 
