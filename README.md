@@ -31,32 +31,59 @@ hadopp: it is a firewall that allows you to store and process large data using s
 
 * mkdir: create folder
 
+>example: mkdir EJEMPLO
+
 * pwd: show folder where i am
+
+> example: pwd /c/xxx/xxx
 
 * ls: show everything
 
+>example:ls /xx
+            /xxx
+            /xxx
+
 * cd: enter the folder
+
+>example: cd /xxx
+
 
 * nano:add text
 
+>example: nano
+
 * git status:to see the status
+
+>example : git status
 
 * add: to crack the addded file
 
-* mv:to rename
+>example: git add "xxx.xxx"
 
 * git mv: edit without using add
 
+>example: git mv "xxx.xxx" "xxx1.xxx"
+
 * rm: to erase
+
+>example: git rm "xxx.xxx"
 
 * git init: to add everything in the .git
 
+>example: git init
+
 * git checkout: used to return or change branches
 
-* git mv: rename the file 
+>example: git checkout master
 
-* git diff: to make a list of conflicts
+* git diff --staged: to make a list of conflicts
+
+>example: git diff --staged
 
 * git reset: remove commits
+
+>example: git reset --hard
+>example: git reset --mixed
+>example: git reset --soft
 
 * git amend: modify the most recent, allow you to combine the confirmed prepared changes and create another
